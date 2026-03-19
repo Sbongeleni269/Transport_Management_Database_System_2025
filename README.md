@@ -23,17 +23,15 @@ A Java GUI application to manage transport operations. View, insert, and delete 
 - Create database: transportsystem
 - Import provided SQL scripts to create tables.
 - Add MySQL Connector/J to project:
-- 
--- Eclipse → Right-click project → Properties → Java Build Path → Libraries → Add External JAR → select mysql-connector-java-8.0.x.jar.
--- Update DB credentials in TransportSystemGUI.java:
+
+ - Eclipse → Right-click project → Properties → Java Build Path → Libraries → Add External JAR → select mysql-connector-java-8.0.x.jar.
+  - Update DB credentials in TransportSystemGUI.java:
   
---- conn = DriverManager.getConnection(
-
----- "jdbc:mysql://localhost:3306/transportsystem",
----- "root",        // your MySQL username
----- "yourpassword" // your MySQL password
-
---- );
+     - conn = DriverManager.getConnection(
+           - "jdbc:mysql://localhost:3306/transportsystem",
+           - "root",        // your MySQL username
+           - "yourpassword" // your MySQL password
+     - );
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Using the Application
