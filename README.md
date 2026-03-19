@@ -47,7 +47,7 @@ A Java GUI application to manage transport operations. View, insert, and delete 
 
 - Script Screenshort (Part of the whole script)
   
- - ![img alt](https://github.com/Sbongeleni269/Transport_Management_Database_System_2025/blob/03431923599b75b3a0429bafa86c686fdcf7cff4/Images/Project%20Screenshorts/Scripts.png)
+ - ![img alt](https://github.com/Sbongeleni269/Transport_Management_Database_System_2025/blob/03431923599b75b3a0429bafa86c686fdcf7cff4/Images/Project%20Screenshorts/Scripts%20.png)
  - Script used to insert data to my database(To check if my database works)
  - Part of Script
    
